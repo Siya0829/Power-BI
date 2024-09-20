@@ -1,3 +1,16 @@
+
+
+
+
+![Power BI Project](https://github.com/user-attachments/assets/3deeb623-0a2a-455e-8c6a-2c6c1be35940)
+
+
+
+
+
+
+
+
 ### Problem Statement
 
 This Marketing Performance Dashboard is designed to give an overview of campaign performance metrics across different channels. The dashboard focuses on the following key marketing KPIs:
@@ -82,4 +95,9 @@ A slicer for filtering by campaign type (Awareness, Consideration, Conversion, R
 - Campaign Channel Performance: The donut chart highlights which channels (e.g., PPC, SEO, Social Media) generate the most website visits, allowing the team to prioritize high-performing channels.
 - Conversion Rate Trends: The line chart provides insights into how different campaign channels are converting, which can help allocate marketing spend more effectively.
 - Time Spent vs. Conversion: The scatter plot provides an understanding of how the time users spend on the site correlates with conversion rates across different channels.
+
+
+
+
+
 
